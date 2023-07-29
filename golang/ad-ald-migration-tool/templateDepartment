@@ -1,0 +1,13 @@
+dn: cn=hr,ou=users,dc=demo,dc=lab
+cn: названиеДепартамента
+gidNumber: гид
+objectClass: top
+objectClass: posixGroup
+structuralObjectClass: posixGroup
+entryUUID: ентриУУИД
+creatorsName: uid=admin/admin,ou=users,dc=demo,dc=lab
+createTimestamp: 20220924170642Z
+memberUid: мембер
+entryCSN: 20220925134020.252056Z#000000#001#000000
+modifiersName: uid=admin/admin,ou=users,dc=demo,dc=lab
+modifyTimestamp: 20220925134020Z
